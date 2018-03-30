@@ -5,7 +5,7 @@ $ npm install --save @ionic-native/device
 
 2) Replace the device.java file at this path :
 
-platforms\android\src\org\apache\cordova\device
+platforms\android\app\src\main\java\org\apache\cordova\device
 
 3) add the manifest code in AndroidManifest.xml at your root folder. 
 
